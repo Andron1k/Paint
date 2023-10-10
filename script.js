@@ -40,10 +40,6 @@ canvas.addEventListener('mouseleave', endPosition);
 
 
 
-// Очищення
-const resetButton = document.getElementById('resetButton');
-resetButton.addEventListener('click', resetCanvas);
-
 
 
 
